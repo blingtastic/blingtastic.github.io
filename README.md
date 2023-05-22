@@ -1,2 +1,2 @@
 # Blingtastic
-Visit our website at https://sites.google.com/view/blingtastic
+Visit our website at [here](https://sites.google.com/view/blingtastic).
